@@ -1,6 +1,6 @@
 
 title: My Resume
-url: 'http://webjeda.com'
+url: 'https://eyekiller.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -15,15 +15,14 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
-tagline: Full Stack Developer
+name: Rubén M. E. Quiñones Milán
+tagline: IT Manager / Software Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: alan.doe@website.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: alandoe
-twitter: '@twittername'
+email: ruben.quinonesmilan@gmail.com
+phone: 787-604-4042
+website: eyekiller.github.io/online-cv/ #do not add http://
+github: ruben.quinonesmilan
+twitter: '@rmeqm'
 
